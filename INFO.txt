@@ -1,0 +1,12 @@
+PACKAGES INSTALLED: 
+nodemon
+express
+express-fileupload
+express-session
+mongoose
+mongodb
+connect-flash
+cookie-parser
+dotenv
+ejs
+express-ejs-layouts
